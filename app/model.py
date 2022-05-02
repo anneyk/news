@@ -1,3 +1,6 @@
+from this import d
+
+
 class News:
   '''
   News class to define News objects
@@ -10,3 +13,13 @@ class News:
     self.content = content
     self.publishedAt = publishedAt
 
+class Sources:
+  '''
+  News class to define News Objects
+  '''
+  
+  def __init__(self,name,description,url):
+    self.name = name
+    self.description = description
+    self.url = url
+    
