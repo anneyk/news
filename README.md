@@ -21,13 +21,13 @@ https://allnewsapp.herokuapp.com/
 # Contributions
 To fix a bug or enhance an existing module, follow these steps:
 
-Fork the repo
-Create a new branch (git checkout -b <branchname>)
-Make the appropriate changes in the files
-Add changes to reflect the changes made
-Commit your changes (git commit -am 'changes made')
-Push to the branch (git push newsapp <branchname>)
-Create a Pull Request
+1. Fork the repo
+2. Create a new branch (git checkout -b branchname)
+3. Make the appropriate changes in the files
+4. Add changes to reflect the changes made
+5. Commit your changes (git commit -am 'changes made')
+6. Push to the branch (git push newsapp branchname)
+7. Create a Pull Request
 # License
 MIT License:
 Copyright (c) 2022
