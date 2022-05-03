@@ -1,6 +1,6 @@
 * {
   font-family:'Overpass', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #1e1e21;
+  background-color: #483d8b;
   color: #fff;
 }
 
@@ -23,33 +23,33 @@ a:hover {
 }
 
 #navbarToggle {
-  background-color: #000;
+  background-color: #cc41a9;
 }
 
-.navbar.navbar-dark .nav-item .nav-link { 
+.navbar.navbar-light .nav-item .nav-link { 
   color: #fff!important; 
-  background-color: #000;
+  background-color: #483d8b;
 } 
 
-.navbar.navbar-dark .nav-item .nav-link:hover { 
+.navbar.navbar-light .nav-item .nav-link:hover { 
   color: #fff!important; 
-  background-color: #000;
+  background-color: #cc41a9;
 }
 
 .navbar {
-  background-color: #000!important;
+  background-color: #cc41a9!important;
 }
 
 .navbar-nav {
-  background-color: #000;
+  background-color: #cc41a9;
 }
 
 .navbar-brand {
-  background-color: #000;
+  background-color: #cc41a9;
 }
 
 .lg {
-  background-color: #000;
+  background-color: #cc41a9;
   font-size: xx-large;
 }
 
@@ -117,8 +117,8 @@ h2 {
 }
 
 .logo {
-  color: #dd0000;
-  background-color: #000;
+  color: #fff;
+  
 }
 
 .svg {
@@ -130,18 +130,18 @@ h2 {
 }
 
 .footer {
-  background-color: #000;
+  background-color: #cc41a9;
   padding-top: 20px;
   padding-bottom: 15px;
 }
 
 .footer-text {
-  background-color: #000;
+  background-color: #cc41a9;
   margin-bottom: 0px;
 }
 
 .dropdown-menu {
-  background-color: #1e1e21;
+  background-color: #cc41a9
 }
 
 .dropdown-item {
@@ -150,7 +150,7 @@ h2 {
 
 .dropdown-item:hover {
   color: #fff;
-  background-color: #26262a;
+  background-color: #483d8b
 }
 
 .published {
@@ -158,5 +158,5 @@ h2 {
 }
 
 .card-footer {
-  background-color: #26262a;
+  background-color: #cc41a9;
 }
